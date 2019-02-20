@@ -1,0 +1,22 @@
+{
+  "name": "doctorclinic",
+  "version": "1.0.0",
+  "description": "Patient Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupi73/doctorclinicfrontend.git"
+  },
+  "author": "Rupinder Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupi73/doctorclinicfrontend/issues"
+  },
+  "homepage": "https://github.com/rupi73/doctorclinicfrontend#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
