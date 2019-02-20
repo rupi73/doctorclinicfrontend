@@ -1,0 +1,4 @@
+-patient profile
+-Case/Patient register
+- symptoms
+- perscriptions
